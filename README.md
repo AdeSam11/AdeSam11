@@ -1,15 +1,15 @@
 ![sam ade-03](https://user-images.githubusercontent.com/106311076/195319401-dc9a78e7-1624-4afa-a320-47c4b8977572.jpg)
 
 <h1 align="center">Hello 👋, I'm Samuel</h1>
-<h3 align="center">I am a data analyst who has great passion for tech in general.</h3>
+<h3 align="center">I am a backend developer with a strong theoretical and practical background in data analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adesam11&label=Profile%20views&color=0e75b6&style=flat" alt="adesam11" /> </p>
 
 - 🌱 I’m currently learning [Software Engineering](https://www.alxafrica.com/)
 
-- 👯 I’m looking to collaborate on **DevOps, and Data analysis projects**
+- 👯 I’m looking to collaborate on **Software development, and Data analysis projects**
 
-- 💬 Ask me about **Python, SQL**
+- 💬 Ask me about **Python, Django, and SQL**
 
 - 📫 How to reach me **adetoyinbosam99@gmail.com**
 
